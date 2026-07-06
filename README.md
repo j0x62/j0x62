@@ -25,9 +25,12 @@ transit-sector · research · academia
 - reading and listening to books at the same time
 
 ## interests
-<sub>CTI · c/c++ · python · ai anti-hype · vendor risk · security stuff</sub>
+CTI · c/c++ · python · ai anti-hype · vendor risk · security stuff · hacking (but not the cool kind)
+
 ---
+
 contact · [x](https://x.com/j0x62_) · [linkedin](https://www.linkedin.com/in/jeraldb)
+
 <!--
 **j0x62/j0x62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
