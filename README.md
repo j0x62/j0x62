@@ -17,13 +17,15 @@ transit-sector · research · academia
 >
 > **`IT 450` — cybersecurity analysis**  
 > analysis methodologies, log triage, and analyst workflow
+
 ## /now
 - working on my personal toolkit
 - vendor and software risk analysis
 - lots of writing
 - reading and listening to books at the same time
+
 ## interests
-`c/c++` · `python` · `ai anti-hype` · `vendor risk analysis` · `security`
+<sub>CTI · c/c++ · python · ai anti-hype · vendor risk · security stuff</sub>
 ---
 contact · [x](https://x.com/j0x62_) · [linkedin](https://www.linkedin.com/in/jeraldb)
 <!--
