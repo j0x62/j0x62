@@ -11,12 +11,12 @@ threat intelligence · OSINT · detection engineering
 
 > **fall 2026 · green river college**
 >
-> **`IT 214` — Cisco CCST Cybersecurity Certification Prep**
+> **`IT 214` - Cisco CCST Cybersecurity Certification Prep**
 >
-> **`IT 365` — Cyber Data Analysis Using Kibana**
+> **`IT 365` - Cyber Data Analysis Using Kibana**
 > security analytics, queries, dashboards, and detection patterns
 >
-> **`IT 450` — Cybersecurity Analysis**
+> **`IT 450` - Cybersecurity Analysis**
 > analysis methodologies, log triage, and analyst workflow
 
 ## /now
