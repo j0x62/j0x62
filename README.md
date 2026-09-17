@@ -1,31 +1,34 @@
 ```console
 $ whoami
-jerald
-$ uname -a
-instructor · analyst · intelligence & OSINT
-$ cat ~/.beat
-transit-sector · research · academia
+jerald — cybersecurity analyst & IT instructor
+$ cat ~/work
+public sector · education · research
+$ cat ~/interests
+threat intelligence · OSINT · detection engineering
 ```
+
 ## currently teaching
-> **summer 2026 · green river college**
+
+> **fall 2026 · green river college**
 >
-> **`IT 340` — network security & firewalls**  
-> hands-on with palo alto NGFWs — app-id, high availability, site-to-site VPNs, and threat mitigation
+> **`IT 214` — Cisco CCST Cybersecurity Certification Prep**
 >
-> **`IT 365` — cyber data analysis with kibana**  
-> hands-on security analytics on the ELK stack — kibana queries, dashboards, and detection patterns
+> **`IT 365` — Cyber Data Analysis Using Kibana**
+> security analytics, queries, dashboards, and detection patterns
 >
-> **`IT 450` — cybersecurity analysis**  
+> **`IT 450` — Cybersecurity Analysis**
 > analysis methodologies, log triage, and analyst workflow
 
 ## /now
-- working on my personal toolkit
-- vendor and software risk analysis
-- lots of writing
-- reading and listening to books at the same time
+
+* automating Canvas workflows
+* vendor and software risk analysis
+* detection engineering
+* reading and listening to the same book at the same time
 
 ## interests
-CTI · c/c++ · python · ai anti-hype · vendor risk · security stuff · hacking (but not the cool kind)
+
+CTI · OSINT · C/C++ · Python · AI · figuring out why something did that · abusing automation
 
 ---
 
